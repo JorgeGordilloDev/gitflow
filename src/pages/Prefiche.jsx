@@ -1,4 +1,5 @@
 const Prefiche = () => {
-	return <div>Prefiche Page</div>
+	// update prefiche page
+	return <div>Prefiche Pagee</div>
 }
 export default Prefiche
