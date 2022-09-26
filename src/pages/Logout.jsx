@@ -1,4 +1,5 @@
 const Logout = () => {
-	return <div>Logout Page</div>
+	// Update logout page
+	return <div>Logout Pagee</div>
 }
 export default Logout
