@@ -1,0 +1,5 @@
+**/dist/
+**/*.md
+**/*.min.css
+package-lock.json
+.prettierrc
